@@ -7,7 +7,7 @@ int main()
 
 
 	const int n = 2;
-	int array[n][n];//(1 задание)
+	int array[n][n]; 
 	int date;
 	int sum = 0;
 	std::cin >> date;
